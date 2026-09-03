@@ -10,9 +10,9 @@ The class repository contains course materials, assignments, shared activities, 
 
 ## Project
 
-**Student:**
-**Project Title:**
-**Current Project Description:**
+**Student: Jessie Chan**
+**Project Title: VR Experience**
+**Current Project Description: a simulated experience of a different time period or location**
 **MTEC 3501 Semester:**
 **Instructor:**
 
