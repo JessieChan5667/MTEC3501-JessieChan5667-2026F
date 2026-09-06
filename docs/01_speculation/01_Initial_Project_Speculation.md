@@ -9,25 +9,28 @@ This document records your project thinking during Week 1 after you complete the
 ### 1.1 Working Title
 
 [Enter a provisional project title.]
+VR Experience
 
 ### 1.2 Current Concept
 
 Describe what you currently imagine making, designing, researching, performing, or developing. Be as expansive as your current thinking requires; two to three sentences is the minimum. If you are not yet sure what your Culmination Project will be, describe the areas, practices, questions, technologies, or experiences you want to work within instead.
 
 [Write here.]
+A VR experience where one gets to interact with a never seen before environment.
 
 ### 1.3 Participant Experience
 
 What might a participant, audience member, user, or collaborator see, hear, do, understand, or feel?
 
 [Write here.]
+They'll be able to see visions and interact with bubbles.
 
 ### 1.4 Early Unknowns
 
 List at least one important question, uncertainty, or problem that you need to investigate.
 
 - [Write here.]
-
+I will have to program the experience in Unity.
 ---
 
 ## 2 SRDMPA: The Architecture of Practice
@@ -39,6 +42,7 @@ After watching *The Architecture of Practice: Dismantling the Make-First Misconc
 Write 2-4 sentences.
 
 [Write here.]
+I think that during the research section of SRDMPA, it will be difficult to determine what scenario the simulation is to be set in. I think after careful consideration, the answer will come to light.
 
 ---
 
@@ -51,6 +55,7 @@ After watching *Complex Creative Systems*, explain how distinguishing among a No
 Write 2-4 sentences. You are not expected to define final versions of these scales yet.
 
 [Write here.]
+I think there will be moments where I will want to change or modify the simulation's setting. In which case, I will have to return to the research phase of the project.
 
 ---
 
@@ -61,12 +66,14 @@ Write 2-4 sentences. You are not expected to define final versions of these scal
 Briefly distinguish between your project's **content** (what it communicates, investigates, enables, or allows someone to experience) and its **system** (how it is created, organized, delivered, or experienced).
 
 [Write here.]
+The project will be developed using a game engine such as Unity or Unreal. It will be experienced through the use of a Meta VR Headset.
 
 ### 4.2 Professional Contribution
 
 What part of the project represents the professional work you want others to evaluate you for? Identify any supporting, acquired, collaborative, or provisional components as needed.
 
 [Write here.]
+I would like help testing the simulation.
 
 ### 4.3 Project Type Response
 
@@ -75,6 +82,7 @@ After watching *Designing Your Culmination Project*, identify one or more projec
 Write 2-4 sentences.
 
 [Write here.]
+I'm thinking the simulation could be a Time Machine.
 
 ### 4.4 Project Origin Response
 
@@ -83,6 +91,7 @@ How did you arrive at this project idea or area of interest, and why did you sel
 You may discuss personal experience, prior coursework, creative or technical interests, an existing project, a collaborator, or a possible CHI Meta-Project connection. Your answer may change as the project develops.
 
 [Write here.]
+I decided to do a VR simulation because I went to a VR experience and I would like to recreate something akin to what I experienced. 
 
 ---
 
@@ -90,8 +99,8 @@ You may discuss personal experience, prior coursework, creative or technical int
 
 Before Week 2, reread this document and confirm that it represents your current thinking. During Week 1, complete this document on your repository's `main` branch, then commit and push it. You will begin working in a development branch during Week 2.
 
-- [ ] I completed the Initial Project Concept section.
-- [ ] I completed the SRDMPA response.
-- [ ] I completed the Complex Creative Systems response.
-- [ ] I completed the Project Positioning section.
+- [X] I completed the Initial Project Concept section.
+- [X] I completed the SRDMPA response.
+- [X] I completed the Complex Creative Systems response.
+- [X] I completed the Project Positioning section.
 - [ ] I committed and pushed this document to my repository.
