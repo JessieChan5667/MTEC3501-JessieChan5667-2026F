@@ -11,8 +11,13 @@ The class repository contains course materials, assignments, shared activities, 
 ## Project
 
 **Student: Jessie Chan**
+Github username: JessieChan5667
 **Project Title: VR Experience**
 **Current Project Description: a simulated experience of a different time period or location**
+Project Type: game
+Project Origin: Unity engine
+Uncertainty: what is the VR experience going to be about?
+https://unity.com/features/ai?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_uai_amer_amer_en_pu_sem-gg_acq_br-pr_2026-05_uai-brand_cc3022_unity-ai-beta_id:23825545435&utm_content=cc_dd_uai_amer_pu_sem_gg_unity-ai-beta_pros_uai-br_ggl_cpc_kw_sd_all_sts_x_brand_id:195464867039&utm_term=best%20ai%20for%20unity%20development&&&&&gclsrc=aw.ds&gad_source=1&gad_campaignid=23825545435&gbraid=0AAAAACbaaWVPvsQEUL3VhIMGfNNIeT5P_&gclid=CjwKCAjwnvTUBhBoEiwAZNDxZ9eunvkZ-RFLwJwqTFOgKt7JCm2knw4OpqF9w_RBPV80tacZJv0XZRoCxroQAvD_BwE
 **MTEC 3501 Semester:**
 **Instructor:**
 
