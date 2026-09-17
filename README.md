@@ -102,4 +102,4 @@ See [`docs/README-labels.md`](docs/README-labels.md) for a recommended label tax
 
 ## Documentation Philosophy
 
-This repository is intentionally light on placeholder content. Its folder structure is meant to teach organization by making the project's architecture legible. You may evolve this structure as your project develops — if you significantly change it, please update this README to describe the new structure.
+This repository is intentionally light on placeholder content. Its folder structure is meant to teach organization by making the project's architecture legible. You may evolve this structure as your project develops — if you https://coggle.it/diagram/aqw6YtEy4UHB5F1w/t/-/uNIINwLX1sxu3I1DmUf2awS-xudqzq8L_xIzv6ZJoFQsignificantly change it, please update this README to describe the new structure.
