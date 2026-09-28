@@ -1,0 +1,26 @@
+# Make It Specific Template
+
+Copy this file into your individual project repository, then replace every bracketed prompt with your own content. Remove the instructions and brackets from your finished document. Save the completed file as `docs/01_speculation/02_Make_It_Specific.md`.
+
+## Student / Team
+Jessie Chan
+9/28/2026
+
+## Working Title
+A Trail Across the Stars
+
+## Project Format
+Video game or VR experience
+
+## Project Description
+The project is a Honkai Star Rail fangame where the player goes on a date with Firefly and goes ghostbusting with Guinaifen.
+
+## User / Integrator Experience
+The player goes on a date with Firefly and goes ghostbusting with Guinaifen. On the date with Firefly, the player goes through the Luofu together with Firefly. After the date, the player goes ghostbusting with Guinaifen and finds out the Firefly they were hanging out
+with is a ghost. It is the lingering spirit of the Firefly in the player's memories who was unable to resolve her inner regrets about her death. The player busts the ghost. After the end, the player recieves a message from the real Firefly.
+
+## System Description
+The project takes place in the Luofu. Environments will be handmade by me. The player controls the Trailblazer who interacts with Firefly and Guinaifen.
+
+## Explicit Dependency
+The critical condition of the game is that it is a Honkai Star Rail fangame. The game would not work if it was not about Honkai Star Rail.
