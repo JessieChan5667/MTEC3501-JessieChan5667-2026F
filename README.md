@@ -2,7 +2,7 @@
 
 This repository is **your individual project-development workspace** for MTEC 3501 (and its continuation into ENT 4501 Culmination Project). It is where you research, design, prototype, document, and manage your own project over the course of the semester(s).
 
-➡️ **Main class repository:** [entertainmenttechnology/dbs-MTEC3501-Template](https://github.com/entertainmenttechnology/dbs-MTEC3501-Template) *(update this link to point at your current semester's class repository, e.g. `Smith-MTEC3501-2026S`)*
+➡️ **Main class repository:** [Main Class Repository](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026F)
 
 The class repository contains course materials, assignments, shared activities, and class resources. **This repository contains the development and documentation of your individual Culmination Project.** Final course deliverables will ultimately be submitted or transferred to the class repository according to course instructions.
 
