@@ -1,3 +1,5 @@
+Welcome to Jessie's Culmination Project Development Repository!!!
+
 # MTEC 3501 Culmination Project Development
 
 This repository is **your individual project-development workspace** for MTEC 3501 (and its continuation into ENT 4501 Culmination Project). It is where you research, design, prototype, document, and manage your own project over the course of the semester(s).
