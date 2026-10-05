@@ -117,4 +117,4 @@ This repository is intentionally light on placeholder content. Its folder struct
 
 [Coggle Map](https://coggle.it/diagram/aqw6YtEy4UHB5F1w/t/-/uNIINwLX1sxu3I1DmUf2awS-xudqzq8L_xIzv6ZJoFQ)
 
-[Speculative Proposal]
+[Speculative Proposal](https://github.com/JessieChan5667/MTEC3501-JessieChan5667-2026F/blob/main/docs/01_speculation/Speculative%20Proposal)
