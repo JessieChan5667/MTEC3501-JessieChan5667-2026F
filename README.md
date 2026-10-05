@@ -18,13 +18,13 @@ Github username: JessieChan5667
 
 **Project Title: VR Experience**
 
-**Current Project Description: a simulated experience of a different time period or location**
+**Current Project Description: a Honkai Star Rail fangame where you go on a date with Firefly and investigate the mysterious ghost sightings in Xianzhou**
 
 Project Type: game
 
-Project Origin: Unity engine
+Project Origin: Unity engine/RPG Maker
 
-Uncertainty: what is the VR experience going to be about?
+Uncertainty: what platform is the game going to be on?
 
 [Unity Features](https://unity.com/features/ai)
 
@@ -115,9 +115,6 @@ See [`docs/README-labels.md`](docs/README-labels.md) for a recommended label tax
 
 This repository is intentionally light on placeholder content. Its folder structure is meant to teach organization by making the project's architecture legible. You may evolve this structure as your project develops — if you significantly change it, please update this README to describe the new structure. 
 
-Coggle Map: https://coggle.it/diagram/aqw6YtEy4UHB5F1w/t/-/uNIINwLX1sxu3I1DmUf2awS-xudqzq8L_xIzv6ZJoFQ
+[Coggle Map](https://coggle.it/diagram/aqw6YtEy4UHB5F1w/t/-/uNIINwLX1sxu3I1DmUf2awS-xudqzq8L_xIzv6ZJoFQ)
 
-
-
-
-
+[Speculative Proposal]
