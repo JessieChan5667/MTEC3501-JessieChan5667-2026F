@@ -118,3 +118,7 @@ This repository is intentionally light on placeholder content. Its folder struct
 [Coggle Map](https://coggle.it/diagram/aqw6YtEy4UHB5F1w/t/-/uNIINwLX1sxu3I1DmUf2awS-xudqzq8L_xIzv6ZJoFQ)
 
 [Speculative Proposal](https://github.com/JessieChan5667/MTEC3501-JessieChan5667-2026F/blob/main/docs/01_speculation/Speculative%20Proposal)
+
+[Research Markdown](https://github.com/JessieChan5667/MTEC3501-JessieChan5667-2026F/blob/main/docs/02_research/Research%20Markdown)
+
+[Zotero Collection](https://www.zotero.org/groups/5864194/mtec-/collections/9PHJTA74/collection)
