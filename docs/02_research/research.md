@@ -8,13 +8,17 @@ Inspirational:
 - [Honkai Star Rail 2.0 Penacony - New Trailblaze Story Quest Part 1 - Acheron](https://www.youtube.com/watch?v=RIoYNGpqgt8)
 - [Honkai Star Rail 2.0 Penacony - Memory Zone Meme Boss Fight](https://www.youtube.com/watch?v=kC4GrD3Mt9g)
 - [Honkai Star Rail 2.0 Penacony - Final Boss Stellaron Hunter Sam & Ending](https://www.youtube.com/watch?v=moW4jYx1uKA)
+  - Story related game content for inspiration for script
 
 Precedent:
 - [Honkai: Star Rail official site](https://hsr.hoyoverse.com/en-us/)
+  - Basis for fan game
 
 Resource:
 - [MMD - Honkai Star Rail - (Firefly) + DL](https://www.deviantart.com/oz-sys/art/MMD---Honkai-Star-Rail---(Firefly)-%2B-DL-1023708567)
+  - 3D Model for Firefly for VR experience
 
 Technical:
 - [Unity Software](https://unity.com/solutions/xr/games)
 - [RPG Maker Software](https://www.rpgmakerweb.com)
+  - Gaming platform software
