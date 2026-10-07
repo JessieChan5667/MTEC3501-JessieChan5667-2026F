@@ -8,6 +8,7 @@ Inspirational:
 - [Honkai Star Rail 2.0 Penacony - New Trailblaze Story Quest Part 1 - Acheron](https://www.youtube.com/watch?v=RIoYNGpqgt8)
 - [Honkai Star Rail 2.0 Penacony - Memory Zone Meme Boss Fight](https://www.youtube.com/watch?v=kC4GrD3Mt9g)
 - [Honkai Star Rail 2.0 Penacony - Final Boss Stellaron Hunter Sam & Ending](https://www.youtube.com/watch?v=moW4jYx1uKA)
+- [A Foxian Tale of the Haunted (All Story Quests) Complete Event | Honkai Star Rail 1.5](https://www.youtube.com/watch?v=mtmv9NH3mQ8)
   - Story related game content for inspiration for script
 
 Precedent:
